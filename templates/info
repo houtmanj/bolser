@@ -1,0 +1,7 @@
+$for{ system in selected_systems }
+${system.name}:
+  environment: ${system.environment}
+  roles: ${system.roles}
+$else
+ No systems selected.
+$rof

@@ -1,0 +1,5 @@
+$for{ system in selected_systems }
+${system.name}
+$else
+ No systems selected.
+$rof

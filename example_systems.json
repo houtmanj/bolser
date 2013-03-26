@@ -1,0 +1,34 @@
+{
+    "systems": [
+        {
+            "name": "boltapp26",
+            "environment": "test",
+            "role": ["aey", "sdd", "sddb" ]
+        },
+        {
+            "name": "boltapp27",
+            "environment": "test",
+            "role": ["aey", "sdd", "sddb" ]
+        },
+        {
+            "name": "bolaapp26",
+            "environment": "acc",
+            "role": ["aey", "sdd" ]
+        },
+        {
+            "name": "bolaapp27",
+            "environment": "acc",
+            "role": ["aey", "sdd" ]
+        },
+        {
+            "name": "bolaapp28",
+            "environment": "acc",
+            "role": [ "sddb" ]
+        },
+        {
+            "name": "bolaapp29",
+            "environment": "acc",
+            "role": [ "sddb" ]
+        }
+    ]
+}
